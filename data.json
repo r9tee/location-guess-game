@@ -1,0 +1,38 @@
+[
+  {
+    "id": "irvs",
+    "partial": "images/irvs_partial.jpg",
+    "full": "images/irvs_full.jpg",
+    "answer": "Irv\u2019s Deli & More",
+    "choices": [
+      "Irv\u2019s Deli & More",
+      "Moe\u2019s Grill",
+      "Tommy\u2019s Subs",
+      "Pat\u2019s Pizza"
+    ]
+  },
+  {
+    "id": "splashstation",
+    "partial": "images/splashstation_partial.jpg",
+    "full": "images/splashstation_full.jpg",
+    "answer": "Splash Station",
+    "choices": [
+      "Splash Station",
+      "Aqua Land",
+      "Train Park",
+      "Water Express"
+    ]
+  },
+  {
+    "id": "fremont",
+    "partial": "images/fremont_partial.jpg",
+    "full": "images/fremont_full.jpg",
+    "answer": "Fremont, Nebraska",
+    "choices": [
+      "Fremont, Nebraska",
+      "Lincoln, Nebraska",
+      "Kearney, Nebraska",
+      "Omaha, Nebraska"
+    ]
+  }
+]
