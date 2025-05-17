@@ -1,5 +1,29 @@
 [
   {
+     "id": "fremont",
+    "partial": "images/fremont_partial.jpg",
+    "full": "images/fremont_full.jpg",
+    "answer": "Fremont, Nebraska",
+    "choices": [
+      "Columbus, Nebraska",
+      "Hooper, Nebraska",
+      "Fremont, Nebraska",
+      "Arlington, Nebraska"
+    ]
+  },
+  {
+    "id": "splashstation",
+    "partial": "images/splashstation_partial.jpg",
+    "full": "images/splashstation_full.jpg",
+    "answer": "Splash Station",
+    "choices": [
+      "Peony Park",
+      "Aqua Land",
+      "Splash Station",
+      "Water Express"
+    ]
+  },
+  {
     "id": "irvs",
     "partial": "images/irvs_partial.jpg",
     "full": "images/irvs_full.jpg",
@@ -12,27 +36,315 @@
     ]
   },
   {
-    "id": "splashstation",
-    "partial": "images/splashstation_partial.jpg",
-    "full": "images/splashstation_full.jpg",
-    "answer": "Splash Station",
+    "id": "andys",
+    "partial": "images/andys-on-first_partial.jpg",
+    "full": "images/andys-on-first_full.jpg",
+    "answer": "Andy\u2019s on First",
     "choices": [
-      "Splash Station",
-      "Aqua Land",
-      "Train Park",
-      "Water Express"
+      "Rock & Roll Runza",
+      "Craig\u2019s",
+      "Andy\u2019s on First",
+      "Bonanza"
     ]
   },
   {
-    "id": "fremont",
-    "partial": "images/fremont_partial.jpg",
-    "full": "images/fremont_full.jpg",
-    "answer": "Fremont, Nebraska",
+    "id": "brannons",
+    "partial": "images/brannons_partial.jpg",
+    "full": "images/brannons_full.jpg",
+    "answer": "Brannon\u2019s",
     "choices": [
-      "Fremont, Nebraska",
-      "Lincoln, Nebraska",
-      "Kearney, Nebraska",
-      "Omaha, Nebraska"
+      "Hy-Vee Gas Station",
+      "BP",
+      "Shell",
+      "Brannon\u2019s"
+    ]
+  },
+  {
+    "id": "buck",
+    "partial": "images/bucks-shoes_partial.jpg",
+    "full": "images/bucks-shoes_full.jpg",
+    "answer": "Buck\u2019s Shoes",
+    "choices": [
+      "Blue Bottle",
+      "Krasne\u2019s",
+      "Buck\u2019s Shoes",
+      "Fremont Area Art Association"
+    ]
+  },
+  {
+    "id": "cinema",
+    "partial": "images/cinema-III_partial.jpg",
+    "full": "images/cinema-III_full.jpg",
+    "answer": "Cinema III",
+    "choices": [
+      "Cinema III",
+      "San Anna\u2019s",
+      "Daylight Donuts",
+      "Valentino\u2019s"
+    ]
+  },
+  {
+    "id": "clarmar",
+    "partial": "images/clarmar_partial.jpg",
+    "full": "images/clarmar_full.jpg",
+    "answer": "Clarmar",
+    "choices": [
+      "McDonald\u2019s",
+      "UPS",
+      "Clarmar",
+      "Best Buy"
+    ]
+  },
+  {
+    "id": "daves",
+    "partial": "images/daves-drive-inn-liquor_partial.jpg",
+    "full": "images/daves-drive-inn-liquor_full.jpg",
+    "answer": "Dave\u2019s Drive Inn Liquor",
+    "choices": [
+      "Gambino\u2019s",
+      "Zesto",
+      "Dave\u2019s Drive Inn Liquor",
+      "Daylight Donuts"
+    ]
+  },
+  {
+    "id": "court",
+    "partial": "images/dodge-county-courthouse_partial.jpg",
+    "full": "images/dodge-county-courthouse_full.jpg",
+    "answer": "Dodge County Courthouse",
+    "choices": [
+      "Keene Memorial Library",
+      "Dodge County Courthouse",
+      "RTG Medical",
+      "Budweiser"
+    ]
+  },
+  {
+    "id": "FHS",
+    "partial": "images/fremont-high-school_partial.jpg",
+    "full": "images/fremont-high-school_full.jpg",
+    "answer": "Fremont High School",
+    "choices": [
+      "May Museum",
+      "YMCA",
+      "Fremont High School",
+      "Hall of Justice"
+    ]
+  },
+  {
+    "id": "lakes",
+    "partial": "images/fremont-state-lakes_partial.jpg",
+    "full": "images/fremont-state-lakes_full.jpg",
+    "answer": "Fremont State Lakes",
+    "choices": [
+      "Fremont State Lakes",
+      "NP Dodge Park",
+      "Mahoney State Park",
+      "Lewis & Clark Landing"
+    ]
+  },
+  {
+    "id": "gerbil",
+    "partial": "images/gerbil-run_partial.jpg",
+    "full": "images/gerbil-run_full.jpg",
+    "answer": "The Gerbil Run",
+    "choices": [
+      "Mouse Trap",
+      "John C. Fremont Days",
+      "Broad Street",
+      "The Gerbil Run"
+    ]
+  },
+  {
+    "id": "gma",
+    "partial": "images/gramas-china-closet_partial.jpg",
+    "full": "images/gramas-china-closet_full.jpg",
+    "answer": "Grama\u2019s China Closet",
+    "choices": [
+      "Pottery Barn",
+      "Krasne\u2019s",
+      "Grama\u2019s China Closet",
+      "Yankee Peddler"
+    ]
+  },
+  {
+    "id": "imperial",
+    "partial": "images/imperial-palace_partial.jpg",
+    "full": "images/imperial-palace_full.jpg",
+    "answer": "Imperial Palace Express",
+    "choices": [
+      "Maurice\u2019s",
+      "Imperial Palace Express",
+      "Brass Knuckle",
+      "Woolworth\u2019s"
+    ]
+  },
+  {
+    "id": "jcpenney",
+    "partial": "images/jc-penney_partial.jpg",
+    "full": "images/jc-penney_full.jpg",
+    "answer": "JCPenney",
+    "choices": [
+      "Gordmans",
+      "Nebraska Sports",
+      "Bath & Body Works",
+      "JCPenney"
+    ]
+  },
+  {
+    "id": "karls",
+    "partial": "images/karls_partial.jpg",
+    "full": "images/karls_full.jpg",
+    "answer": "Karl\u2019s",
+    "choices": [
+      "Schweser\u2019s",
+      "Blue Bottle",
+      "Karl\u2019s",
+      "Fremont Area Art Association"
+    ]
+  },
+  {
+    "id": "miller",
+    "partial": "images/miller-pharmacy_partial.jpg",
+    "full": "images/miller-pharmacy_full.jpg",
+    "answer": "Miller Pharmacy",
+    "choices": [
+      "Baker\u2019s",
+      "Food 4 Less",
+      "Miller Pharmacy",
+      "A&A Drug"
+    ]
+  },
+  {
+    "id": "church",
+    "partial": "images/presbyterian-church_partial.jpg",
+    "full": "images/presbyterian-church_full.jpg",
+    "answer": "Presbyterian Church",
+    "choices": [
+      "St. Patrick\u2019s",
+      "Bergan High School",
+      "May Museum",
+      "Presbyterian Church"
+    ]
+  },
+  {
+    "id": "runza",
+    "partial": "images/runza_partial.jpg",
+    "full": "images/runza_full.jpg",
+    "answer": "Runza",
+    "choices": [
+      "Zesto",
+      "Runza",
+      "McDonald\u2019s",
+      "Wendy\u2019s"
+    ]
+  },
+  {
+    "id": "schwesers",
+    "partial": "images/schwesers_partial.jpg",
+    "full": "images/schswesers_full.jpg",
+    "answer": "Schweser\u2019s",
+    "choices": [
+      "Schuster\u2019s Shoes",
+      "Schweser\u2019s",
+      "Pottery Barn",
+      "Opera House"
+    ]
+  },
+  {
+    "id": "skating",
+    "partial": "images/skating-rink_partial.jpg",
+    "full": "images/skating-rink_full.jpg",
+    "answer": "Skating Rink",
+    "choices": [
+      "Zesto\u2019s",
+      "Dr. Coke\u2019s Office",
+      "Skating Rink",
+      "Bonanza"
+    ]
+  },
+  {
+    "id": "sweete",
+    "partial": "images/sweete-shoppe_partial.jpg",
+    "full": "images/sweete-shoppe_full.jpg",
+    "answer": "Sweete Shoppe",
+    "choices": [
+      "Sidner Ice Rink",
+      "Gambino\u2019s",
+      "Sweete Shoppe",
+      "Al\u2019s Cafe"
+    ]
+  },
+  {
+    "id": "sams",
+    "partial": "images/unclesams_partial.jpg",
+    "full": "images/unclesams_full.jpg",
+    "answer": "Uncle Sam\u2019s",
+    "choices": [
+      "Uncle Sam\u2019s",
+      "Yankee Peddler West",
+      "Grama\u2019s China Closet",
+      "The Brass Armadillo"
+    ]
+  },
+  {
+    "id": "yankee",
+    "partial": "images/yankee-peddler_partial.jpg",
+    "full": "images/yankee-peddler_full.jpg",
+    "answer": "Yankee Peddler West",
+    "choices": [
+      "Yankee Peddler West",
+      "The Brass Armadillo",
+      "Irv\u2019s Deli & More",
+      "Fremont Area Art Association"
+    ]
+  },
+  {
+    "id": "zesto",
+    "partial": "images/zesto_partial.jpg",
+    "full": "images/zesto_full.jpg",
+    "answer": "Zesto",
+    "choices": [
+      "Runza",
+      "Sonic Drive-Inn",
+      "Zesto",
+      "Edward Hopper\u2019s Nighthawks"
+    ]
+  },
+  {
+    "id": "ohio",
+    "partial": "images/ohio_partial.jpg",
+    "full": "images/ohio_full.jpg",
+    "answer": "1125 Ohio Street",
+    "choices": [
+      "2005 N William Ave",
+      "1125 Ohio St",
+      "105 N Garden City Rd",
+      "222 Sesame St"
+    ]
+  },
+  {
+    "id": "military",
+    "partial": "images/1246miltary_partial.jpg",
+    "full": "images/1246military_full.jpg",
+    "answer": "1246 E Military Ave",
+    "choices": [
+      "105 N Garden City Rd",
+      "2005 N William Ave",
+      "1535 N 208th Terr",
+      "1246 E Military Ave"
+    ]
+  },
+  {
+    "id": "william",
+    "partial": "images/north-william_partial.jpg",
+    "full": "images/north-william_full.jpg",
+    "answer": "2005 N William Ave",
+    "choices": [
+      "105 N Garden City Rd",
+      "222 Sesame St",
+      "1535 N 208th Terr",
+      "2005 N William Ave"
     ]
   }
 ]
