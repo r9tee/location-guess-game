@@ -1,8 +1,8 @@
 [
   {
      "id": "fremont",
-    "partial": "images/fremont_partial.jpg",
-    "full": "images/fremont_full.jpg",
+    "partial": "images/fremont_partial.png",
+    "full": "images/fremont_full.png",
     "answer": "Fremont, Nebraska",
     "choices": [
       "Columbus, Nebraska",
@@ -13,8 +13,8 @@
   },
   {
     "id": "splashstation",
-    "partial": "images/splashstation_partial.jpg",
-    "full": "images/splashstation_full.jpg",
+    "partial": "images/splashstation_partial.png",
+    "full": "images/splashstation_full.png",
     "answer": "Splash Station",
     "choices": [
       "Peony Park",
@@ -25,8 +25,8 @@
   },
   {
     "id": "irvs",
-    "partial": "images/irvs_partial.jpg",
-    "full": "images/irvs_full.jpg",
+    "partial": "images/irvs_partial.png",
+    "full": "images/irvs_full.png",
     "answer": "Irv\u2019s Deli & More",
     "choices": [
       "Irv\u2019s Deli & More",
@@ -37,8 +37,8 @@
   },
   {
     "id": "andys",
-    "partial": "images/andys-on-first_partial.jpg",
-    "full": "images/andys-on-first_full.jpg",
+    "partial": "images/andys-on-first_partial.png",
+    "full": "images/andys-on-first_full.png",
     "answer": "Andy\u2019s on First",
     "choices": [
       "Rock & Roll Runza",
@@ -49,8 +49,8 @@
   },
   {
     "id": "brannons",
-    "partial": "images/brannons_partial.jpg",
-    "full": "images/brannons_full.jpg",
+    "partial": "images/brannons_partial.png",
+    "full": "images/brannons_full.png",
     "answer": "Brannon\u2019s",
     "choices": [
       "Hy-Vee Gas Station",
@@ -61,8 +61,8 @@
   },
   {
     "id": "buck",
-    "partial": "images/bucks-shoes_partial.jpg",
-    "full": "images/bucks-shoes_full.jpg",
+    "partial": "images/bucks-shoes_partial.png",
+    "full": "images/bucks-shoes_full.png",
     "answer": "Buck\u2019s Shoes",
     "choices": [
       "Blue Bottle",
@@ -73,8 +73,8 @@
   },
   {
     "id": "cinema",
-    "partial": "images/cinema-III_partial.jpg",
-    "full": "images/cinema-III_full.jpg",
+    "partial": "images/cinema-III_partial.png",
+    "full": "images/cinema-III_full.png",
     "answer": "Cinema III",
     "choices": [
       "Cinema III",
@@ -85,8 +85,8 @@
   },
   {
     "id": "clarmar",
-    "partial": "images/clarmar_partial.jpg",
-    "full": "images/clarmar_full.jpg",
+    "partial": "images/clarmar_partial.png",
+    "full": "images/clarmar_full.png",
     "answer": "Clarmar",
     "choices": [
       "McDonald\u2019s",
@@ -97,8 +97,8 @@
   },
   {
     "id": "daves",
-    "partial": "images/daves-drive-inn-liquor_partial.jpg",
-    "full": "images/daves-drive-inn-liquor_full.jpg",
+    "partial": "images/daves-drive-inn-liquor_partial.png",
+    "full": "images/daves-drive-inn-liquor_full.png",
     "answer": "Dave\u2019s Drive Inn Liquor",
     "choices": [
       "Gambino\u2019s",
@@ -109,8 +109,8 @@
   },
   {
     "id": "court",
-    "partial": "images/dodge-county-courthouse_partial.jpg",
-    "full": "images/dodge-county-courthouse_full.jpg",
+    "partial": "images/dodge-county-courthouse_partial.png",
+    "full": "images/dodge-county-courthouse_full.png",
     "answer": "Dodge County Courthouse",
     "choices": [
       "Keene Memorial Library",
@@ -121,8 +121,8 @@
   },
   {
     "id": "FHS",
-    "partial": "images/fremont-high-school_partial.jpg",
-    "full": "images/fremont-high-school_full.jpg",
+    "partial": "images/fremont-high-school_partial.png",
+    "full": "images/fremont-high-school_full.png",
     "answer": "Fremont High School",
     "choices": [
       "May Museum",
@@ -133,8 +133,8 @@
   },
   {
     "id": "lakes",
-    "partial": "images/fremont-state-lakes_partial.jpg",
-    "full": "images/fremont-state-lakes_full.jpg",
+    "partial": "images/fremont-state-lakes_partial.png",
+    "full": "images/fremont-state-lakes_full.png",
     "answer": "Fremont State Lakes",
     "choices": [
       "Fremont State Lakes",
@@ -145,8 +145,8 @@
   },
   {
     "id": "gerbil",
-    "partial": "images/gerbil-run_partial.jpg",
-    "full": "images/gerbil-run_full.jpg",
+    "partial": "images/gerbil-run_partial.png",
+    "full": "images/gerbil-run_full.png",
     "answer": "The Gerbil Run",
     "choices": [
       "Mouse Trap",
@@ -157,8 +157,8 @@
   },
   {
     "id": "gma",
-    "partial": "images/gramas-china-closet_partial.jpg",
-    "full": "images/gramas-china-closet_full.jpg",
+    "partial": "images/gramas-china-closet_partial.png",
+    "full": "images/gramas-china-closet_full.png",
     "answer": "Grama\u2019s China Closet",
     "choices": [
       "Pottery Barn",
@@ -169,8 +169,8 @@
   },
   {
     "id": "imperial",
-    "partial": "images/imperial-palace_partial.jpg",
-    "full": "images/imperial-palace_full.jpg",
+    "partial": "images/imperial-palace_partial.png",
+    "full": "images/imperial-palace_full.png",
     "answer": "Imperial Palace Express",
     "choices": [
       "Maurice\u2019s",
@@ -181,8 +181,8 @@
   },
   {
     "id": "jcpenney",
-    "partial": "images/jc-penney_partial.jpg",
-    "full": "images/jc-penney_full.jpg",
+    "partial": "images/jc-penney_partial.png",
+    "full": "images/jc-penney_full.png",
     "answer": "JCPenney",
     "choices": [
       "Gordmans",
@@ -193,8 +193,8 @@
   },
   {
     "id": "karls",
-    "partial": "images/karls_partial.jpg",
-    "full": "images/karls_full.jpg",
+    "partial": "images/karls_partial.png",
+    "full": "images/karls_full.png",
     "answer": "Karl\u2019s",
     "choices": [
       "Schweser\u2019s",
@@ -205,8 +205,8 @@
   },
   {
     "id": "miller",
-    "partial": "images/miller-pharmacy_partial.jpg",
-    "full": "images/miller-pharmacy_full.jpg",
+    "partial": "images/miller-pharmacy_partial.png",
+    "full": "images/miller-pharmacy_full.png",
     "answer": "Miller Pharmacy",
     "choices": [
       "Baker\u2019s",
@@ -217,8 +217,8 @@
   },
   {
     "id": "church",
-    "partial": "images/presbyterian-church_partial.jpg",
-    "full": "images/presbyterian-church_full.jpg",
+    "partial": "images/presbyterian-church_partial.png",
+    "full": "images/presbyterian-church_full.png",
     "answer": "Presbyterian Church",
     "choices": [
       "St. Patrick\u2019s",
@@ -229,8 +229,8 @@
   },
   {
     "id": "runza",
-    "partial": "images/runza_partial.jpg",
-    "full": "images/runza_full.jpg",
+    "partial": "images/runza_partial.png",
+    "full": "images/runza_full.png",
     "answer": "Runza",
     "choices": [
       "Zesto",
@@ -241,8 +241,8 @@
   },
   {
     "id": "schwesers",
-    "partial": "images/schwesers_partial.jpg",
-    "full": "images/schswesers_full.jpg",
+    "partial": "images/schwesers_partial.png",
+    "full": "images/schswesers_full.png",
     "answer": "Schweser\u2019s",
     "choices": [
       "Schuster\u2019s Shoes",
@@ -253,8 +253,8 @@
   },
   {
     "id": "skating",
-    "partial": "images/skating-rink_partial.jpg",
-    "full": "images/skating-rink_full.jpg",
+    "partial": "images/skating-rink_partial.png",
+    "full": "images/skating-rink_full.png",
     "answer": "Skating Rink",
     "choices": [
       "Zesto\u2019s",
@@ -265,8 +265,8 @@
   },
   {
     "id": "sweete",
-    "partial": "images/sweete-shoppe_partial.jpg",
-    "full": "images/sweete-shoppe_full.jpg",
+    "partial": "images/sweete-shoppe_partial.png",
+    "full": "images/sweete-shoppe_full.png",
     "answer": "Sweete Shoppe",
     "choices": [
       "Sidner Ice Rink",
@@ -277,8 +277,8 @@
   },
   {
     "id": "sams",
-    "partial": "images/unclesams_partial.jpg",
-    "full": "images/unclesams_full.jpg",
+    "partial": "images/unclesams_partial.png",
+    "full": "images/unclesams_full.png",
     "answer": "Uncle Sam\u2019s",
     "choices": [
       "Uncle Sam\u2019s",
@@ -289,8 +289,8 @@
   },
   {
     "id": "yankee",
-    "partial": "images/yankee-peddler_partial.jpg",
-    "full": "images/yankee-peddler_full.jpg",
+    "partial": "images/yankee-peddler_partial.png",
+    "full": "images/yankee-peddler_full.png",
     "answer": "Yankee Peddler West",
     "choices": [
       "Yankee Peddler West",
@@ -301,8 +301,8 @@
   },
   {
     "id": "zesto",
-    "partial": "images/zesto_partial.jpg",
-    "full": "images/zesto_full.jpg",
+    "partial": "images/zesto_partial.png",
+    "full": "images/zesto_full.png",
     "answer": "Zesto",
     "choices": [
       "Runza",
@@ -313,8 +313,8 @@
   },
   {
     "id": "ohio",
-    "partial": "images/ohio_partial.jpg",
-    "full": "images/ohio_full.jpg",
+    "partial": "images/ohio_partial.png",
+    "full": "images/ohio_full.png",
     "answer": "1125 Ohio Street",
     "choices": [
       "2005 N William Ave",
@@ -325,8 +325,8 @@
   },
   {
     "id": "military",
-    "partial": "images/1246miltary_partial.jpg",
-    "full": "images/1246military_full.jpg",
+    "partial": "images/1246miltary_partial.png",
+    "full": "images/1246military_full.png",
     "answer": "1246 E Military Ave",
     "choices": [
       "105 N Garden City Rd",
@@ -337,8 +337,8 @@
   },
   {
     "id": "william",
-    "partial": "images/north-william_partial.jpg",
-    "full": "images/north-william_full.jpg",
+    "partial": "images/north-william_partial.png",
+    "full": "images/north-william_full.png",
     "answer": "2005 N William Ave",
     "choices": [
       "105 N Garden City Rd",
