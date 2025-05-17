@@ -1,8 +1,8 @@
 [
   {
      "id": "fremont",
-    "partial": "images/fremont_partial.png",
-    "full": "images/fremont_full.png",
+    "partial": "images/welcome-to-fremont_partial.png",
+    "full": "images/welcome-to-fremont_full.png",
     "answer": "Fremont, Nebraska",
     "choices": [
       "Columbus, Nebraska",
