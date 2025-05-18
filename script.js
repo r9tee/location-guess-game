@@ -41,7 +41,7 @@ function showQuestion() {
     if (current < data.length) {
       showQuestion();
     } else {
-      document.body.innerHTML = "<h1>🎉 You finished the game, we hope you enjoyed the trip down memory lane.<br>Happy 50th Birthday Jen! ❤️</h1>";
+      document.body.innerHTML = "<h1>🎉 You finished the game!</h1> <h2>Happy 50th Birthday Jen! ❤️</h2> <p>We love you - Ryan, Makena, Jaxson, Jezebel, and Jilly-Boo</p>";
     }
   };
 }
