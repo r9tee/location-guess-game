@@ -60,6 +60,18 @@
     ]
   },
   {
+    "id": "FHS",
+    "partial": "images/fremont-high-school_partial.png",
+    "full": "images/fremont-high-school_full.png",
+    "answer": "Fremont High School",
+    "choices": [
+      "May Museum",
+      "YMCA",
+      "Fremont High School",
+      "Hall of Justice"
+    ]
+  },
+  {
     "id": "imperial",
     "partial": "images/imperial-palace_partial.png",
     "full": "images/imperial-palace_full.png",
@@ -154,18 +166,6 @@
       "Krasne\u2019s",
       "Buck\u2019s Shoes",
       "Fremont Area Art Association"
-    ]
-  },
-  {
-    "id": "FHS",
-    "partial": "images/fremont-high-school_partial.png",
-    "full": "images/fremont-high-school_full.png",
-    "answer": "Fremont High School",
-    "choices": [
-      "May Museum",
-      "YMCA",
-      "Fremont High School",
-      "Hall of Justice"
     ]
   },
   {
